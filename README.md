@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://i.ibb.co.com/r2MX0pW7/banner.png)
+![Banner](https://i.ibb.co/r2MX0pW7/banner.png)
 
 ### 💻 Full-Stack Developer
 
