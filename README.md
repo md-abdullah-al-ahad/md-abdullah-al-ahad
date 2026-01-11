@@ -1,7 +1,5 @@
 <div align="center">
 
-![Banner](https://i.ibb.co/r2MX0pW7/banner.png)
-
 ### 💻 Full-Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Efficient+in+MERN+Stack;Problem+Solver;Open+to+Opportunities" />
@@ -117,7 +115,26 @@ Rajshahi, Bangladesh
 
 ## 🚀 Featured Projects
 
-### 1. KrishiLink - Agricultural Marketplace
+### 1. BookCourier - Library Management System
+**Tech Stack:** MongoDB, Express.js, React 19, Node.js, Firebase Auth, Axios, TailwindCSS  
+**Description:** A comprehensive book delivery platform with role-based access control connecting readers with their favorite books through seamless ordering and delivery tracking.
+
+**Key Features:**
+- Engineered RBAC system using Axios interceptors to secure routes for Users, Librarians, and Admins
+- Implemented catalogue with debounced search, multi-parameter sorting, and server-side pagination
+- Developed order processing flow with checkout validation, invoice generation, and real-time status tracking
+- Created dashboards with optimistic UI updates and skeleton loaders for seamless user experience
+- Firebase authentication with Google OAuth integration
+- Advanced filtering by category, author, price range, and availability status
+- Review and rating system with star ratings (only for delivered orders)
+- Payment system with mock payment processing and invoice management
+- Wishlist functionality with persistent storage
+
+🔗 [Live Demo](https://bookcourier-client-xi.vercel.app/) | [Frontend Repository](https://github.com/md-abdullah-al-ahad/bookcourier-client.git) | [Backend Repository](https://github.com/md-abdullah-al-ahad/bookcourier-server.git)
+
+---
+
+### 2. KrishiLink - Agricultural Marketplace
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Firebase, TailwindCSS  
 **Description:** A full-stack agricultural marketplace platform connecting farmers directly with buyers for seamless crop trading in Bangladesh.
 
@@ -133,7 +150,7 @@ Rajshahi, Bangladesh
 
 ---
 
-### 2. HERO.IO Apps - Digital Product Marketplace
+### 3. HERO.IO Apps - Digital Product Marketplace
 **Tech Stack:** React.js, Vite, Tailwind CSS, DaisyUI, Recharts  
 **Description:** A single-page application showcasing trending digital products with simulated internal app marketplace features and analytics.
 
@@ -149,7 +166,7 @@ Rajshahi, Bangladesh
 
 ---
 
-### 3. GameKhuji - Game Discovery Platform
+### 4. GameKhuji - Game Discovery Platform
 **Tech Stack:** React.js, Firebase, Framer Motion, Tailwind CSS, DaisyUI  
 **Description:** An engaging online library for discovering indie games with detailed information, ratings, and direct download links.
 
@@ -237,4 +254,3 @@ Rajshahi, Bangladesh
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=110&section=footer&text=See%20You%20Again!&fontSize=22&fontColor=fffff&animation=twinkling" width="100%"/>
 
 </div>
-
