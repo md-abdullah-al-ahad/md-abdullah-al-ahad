@@ -1,3 +1,5 @@
+![Header Banner](https://i.ibb.co.com/fYjwj8K8/github-pixel-art-animated-banner.gif)
+
 ### Md. Abdullah Al Ahad
 
 Software Developer · CSE @ RUET · Building at ibrella
